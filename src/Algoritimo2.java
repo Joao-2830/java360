@@ -1,4 +1,4 @@
-public class AlgoritimoDois {
+public class Algoritimo2 {
         public static void main(String[] args) {
             IO.println("Quem ousa entrar na Sala do Eco?");
             String nome = IO.readln();

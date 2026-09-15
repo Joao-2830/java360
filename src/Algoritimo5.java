@@ -1,4 +1,4 @@
-public class AlgoritimoCinco {
+public class Algoritimo5 {
     public static void main(String[] args) {
         int numero;
         numero = Integer.parseInt(IO.readln("\n digite um numero: "));
