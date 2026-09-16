@@ -1,3 +1,5 @@
+//import javax.swing.JOptionPane;
+
 public class Principal {
   public static void main(String[] args){
         //É  uma instância de uma classe
@@ -13,6 +15,14 @@ public class Principal {
    
     Algoritimo32 objeto3 = new Algoritimo32();
     IO.println(objeto3.mostrarSala("Maria Eduarda"));
+    //String nome3 = JOptionPane.showInputDialog(objeto3);
+    //
+    //Classe objeto = new Construtor();
+    // construtor default
+    Algoritimo33 alg33 = new Algoritimo33();
+    alg33.inserirChave(3);
+    IO.println(alg33.retornarChave());
 
+    IO.println(alg33.abrirPorta());
    } 
 }
