@@ -24,5 +24,19 @@ public class Principal {
     IO.println(alg33.retornarChave());
 
     IO.println(alg33.abrirPorta());
+
+    Algoritimo34 alg34 = new Algoritimo34();
+    alg34.setPrimeiroNumero(10);
+    alg34.setSegundoNumero(5);
+    IO.println(alg34.getPrimeiroNumero());
+    IO.println(alg34.getSegundoNumero());
+
+    Algoritimo35 alg35 = new Algoritimo35();
+    alg35.setModelo("Fusca");
+    alg35.setPlaca("abc1234");
+    alg35.setCavalos(300);
+    IO.println(alg35.getModelo());
+    IO.println(alg35.getPlaca());
+    IO.println(alg35.getCavalos());
    } 
 }
