@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Algoritimo42",
+            "request": "launch",
+            "mainClass": "Algoritimo42",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritimo41",
+            "request": "launch",
+            "mainClass": "Algoritimo41",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
