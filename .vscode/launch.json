@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algoritimo43",
+            "request": "launch",
+            "mainClass": "Algoritimo43",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
             "name": "Algoritimo47",
             "request": "launch",
             "mainClass": "Algoritimo47",
