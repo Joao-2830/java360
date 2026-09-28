@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algoritimo52",
+            "request": "launch",
+            "mainClass": "Algoritimo52",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritimo51",
+            "request": "launch",
+            "mainClass": "Algoritimo51",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritmo51",
+            "request": "launch",
+            "mainClass": "Algoritmo51",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritimo50",
+            "request": "launch",
+            "mainClass": "Algoritimo50",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
             "name": "Algoritimo43",
             "request": "launch",
             "mainClass": "Algoritimo43",
