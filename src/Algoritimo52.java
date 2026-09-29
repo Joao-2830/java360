@@ -10,12 +10,14 @@ public class Algoritimo52 {
         do{
             try{
 
+                String duvida = IO.readln();
             }catch(Exception e){
                 IO.print(e.getMessage());
             }
-            IO.print("adicionar mgs:1[sim] 0[não]");
+            IO.println("adicionar mgs:1[sim] 0[não]");
             r = Integer.parseInt(IO.readln());
 
         }while(r==1);
     }
 }
+

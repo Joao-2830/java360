@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algoritimo48",
+            "request": "launch",
+            "mainClass": "Algoritimo48",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritmo47",
+            "request": "launch",
+            "mainClass": "Algoritmo47",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
             "name": "Algoritimo52",
             "request": "launch",
             "mainClass": "Algoritimo52",
