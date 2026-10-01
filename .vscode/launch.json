@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algoritmo55",
+            "request": "launch",
+            "mainClass": "br.com.romulo.curso.arquivos.Algoritmo55",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritimo54",
+            "request": "launch",
+            "mainClass": "br.com.romulo.curso.arquivos.Algoritimo54",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
+            "name": "Algoritimo53",
+            "request": "launch",
+            "mainClass": "br.com.romulo.curso.arquivos.Algoritimo53",
+            "projectName": "java360_d3cb3510"
+        },
+        {
+            "type": "java",
             "name": "Algoritimo48",
             "request": "launch",
             "mainClass": "Algoritimo48",
